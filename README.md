@@ -3,7 +3,7 @@
 
 An intelligent personal finance tracking application built with **Streamlit** that helps users log expenses, analyze spending behavior, and receive AI-driven financial suggestions based on their habits.
 
-This project combines financial tracking, data visualization, and AI-powered insights to simplify money management.
+This project combines financial tracking, data visualization, and AI-powered insights to simplify money management. 
 
 ---
 
