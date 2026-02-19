@@ -1,5 +1,5 @@
  # 💰 AI-Powered Personal Finance Tracker  
-### Smart Budgeting & Financial Insights with Streamlit + AI
+### Smart Budgeting & Financial Insights with Streamlit + AI 
 
 An intelligent personal finance tracking application built with **Streamlit** that helps users log expenses, analyze spending behavior, and receive AI-driven financial suggestions based on their habits.
 
